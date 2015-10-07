@@ -5,7 +5,7 @@
   <id>https://brunosblog.curation.space/</id>
   <link href="https://brunosblog.curation.space/"/>
   <link href="https://brunosblog.curation.space/feed.xml" rel="self"/>
-  <updated>2015-10-07T10:34:15Z</updated>
+  <updated>2015-10-07T09:58:06Z</updated>
   <author>
     <name>Bruno B</name>
   </author>
@@ -13,8 +13,8 @@
     <title>Hello Bruno</title>
     <link rel="alternate" href="https://brunosblog.curation.space/2015/10/07/hello-bruno.html"/>
     <id>https://brunosblog.curation.space/2015/10/07/hello-bruno.html</id>
-    <published>2015-10-07T10:34:15Z</published>
-    <updated>2015-10-07T22:34:18+00:00</updated>
+    <published>2015-10-07T09:58:06Z</published>
+    <updated>2015-10-07T22:49:25+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -48,8 +48,8 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        &amp;lt;youtube-video&amp;gt; 
-       &lt;span&gt;xHNVK9NY4JE&lt;/span&gt;&amp;lt;/youtube-video&amp;gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
+       &lt;span&gt;xHNVK9NY4JE&lt;/span&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
