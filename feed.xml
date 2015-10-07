@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2015/10/07/hello-bruno.html"/>
     <id>https://brunosblog.curation.space/2015/10/07/hello-bruno.html</id>
     <published>2015-10-07T09:58:06Z</published>
-    <updated>2015-10-07T22:49:25+00:00</updated>
+    <updated>2015-10-07T23:05:43+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -41,29 +41,29 @@
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;strong&gt;Als Beispiel die Integration eines Videos&lt;/strong&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
-       &lt;span&gt;xHNVK9NY4JE&lt;/span&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;strong&gt;Oder ein Bild, you have the choice&amp;hellip;.&lt;/strong&gt; 
-      &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; &lt;/p&gt;
+      &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;img class="img-responsive img-thumbnail article" src="/images/b5002741edbad4eccda65d517764d1ab.png" /&gt;
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;div&gt; 
+        &lt;strong&gt;Als Beispiel die Integration eines Videos:&lt;/strong&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt;
+         &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/xHNVK9NY4JE?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+       &lt;/div&gt; 
+       &lt;div&gt; 
+        &lt;br&gt; 
+       &lt;/div&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
