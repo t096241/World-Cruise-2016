@@ -61,6 +61,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://brunosblog.curation.space//2015/10/07/hello-bruno.html</loc>
+    <lastmod>2015-10-07</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://brunosblog.curation.space//footer2.html</loc>
     <lastmod>2015-10-07</lastmod>
     <priority>1.0</priority>
@@ -70,6 +76,30 @@
     <loc>https://brunosblog.curation.space//</loc>
     <lastmod>2015-10-07</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://brunosblog.curation.space//tags/intro.html</loc>
+    <lastmod>2015-10-07</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://brunosblog.curation.space//2015.html</loc>
+    <lastmod>2015-10-07</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://brunosblog.curation.space//2015/10.html</loc>
+    <lastmod>2015-10-07</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://brunosblog.curation.space//2015/10/07.html</loc>
+    <lastmod>2015-10-07</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
