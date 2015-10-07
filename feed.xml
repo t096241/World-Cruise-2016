@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>1965-1970-1995-2000-2015</title>
+  <subtitle>Everything about Test</subtitle>
+  <id>https://brunosblog.curation.space/</id>
+  <link href="https://brunosblog.curation.space/"/>
+  <link href="https://brunosblog.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name>Bruno Berger</name>
+  </author>
+</feed>
