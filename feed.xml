@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2015/10/07/hello-bruno.html"/>
     <id>https://brunosblog.curation.space/2015/10/07/hello-bruno.html</id>
     <published>2015-10-07T09:58:06Z</published>
-    <updated>2015-10-07T23:05:43+00:00</updated>
+    <updated>2015-10-26T21:27:45+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -64,6 +64,64 @@
        &lt;div&gt; 
         &lt;br&gt; 
        &lt;/div&gt; 
+      &lt;/div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <title>Hallo zusammen</title>
+    <link rel="alternate" href="https://brunosblog.curation.space/2015/10/07/hallo-zusammen.html"/>
+    <id>https://brunosblog.curation.space/2015/10/07/hallo-zusammen.html</id>
+    <published>2015-10-07T09:58:06Z</published>
+    <updated>2015-10-27T10:42:02+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt;
+        Eine kurze Einführung, was so möglich ist. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;Die Dokumentation aller Features findet man unter &lt;a href="https://curation.cloudburo.net/" rel="nofollow"&gt;curation.cloudburo.net&lt;/a&gt;&lt;/li&gt; 
+       &lt;li&gt;Es werden zwei Content Generation Styles unterstützt. Für ein Reiseblog eignet sich der Content Curation Style, welcher in dieser &lt;a href="https://curation.cloudburo.net/2015/06/10/tutorial-curation-publishing-workflow-in-2-simple-steps.html" rel="nofollow"&gt;Note&lt;/a&gt; kurz aufgezeigt wird. Ein Update der Site geschieht etwa alle 15 Minuten.&lt;/li&gt; 
+       &lt;li&gt;Ein Blog Artikel kann beliebig viele Bilder und Movies beinhalten. Siehe dazu die Dokumentation oben&lt;/li&gt; 
+       &lt;li&gt;&lt;span style="color: #ff0000;"&gt;Textfarben&lt;/span&gt; und &lt;strong&gt;Formatierungsstyles&lt;/strong&gt; &lt;em&gt;werden&lt;/em&gt; &lt;span style="text-decoration: underline;"&gt;unterstützt&lt;/span&gt;&lt;/li&gt; 
+       &lt;li&gt;Bei Bilder ist wichtig die Positionierunsoptionen zu verstehen (&lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html" rel="nofollow"&gt;Link&lt;/a&gt;)&lt;/li&gt; 
+       &lt;li&gt;Tags werden in Blog Kategorien umgewandelt, d.h die Artikel könnten je nach Gusto &lt;a href="https://curation.cloudburo.net/2015/06/01/feature-customziable-article-categorization.html" rel="nofollow"&gt;kategorisiert&lt;/a&gt; werden&lt;/li&gt; 
+       &lt;li&gt;Falls ein eigener Domain gewünscht (z.Bsp. blog unter aroundtheworld.tours), kann dies organisiert werden (zum Beispiel via &lt;a href="http://www.domain.com/" rel="nofollow"&gt;&lt;a href="http://www.domain.com"&gt;http://www.domain.com&lt;/a&gt;&lt;/a&gt;)&lt;/li&gt; 
+       &lt;li&gt;By the way &amp;ldquo;everything responsive&amp;rdquo;, d.h. mobile device optimiert&lt;br&gt;&lt;/li&gt; 
+      &lt;/ul&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+  &lt;img class="img-responsive img-thumbnail article" src="/images/b5002741edbad4eccda65d517764d1ab.png" /&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;strong&gt;Als Beispiel die Integration eines Videos:&lt;/strong&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/xHNVK9NY4JE?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
