@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://brunosblog.curation.space//menu2.html</loc>
+    <loc>https://brunosblog.curation.space//</loc>
+    <lastmod>2015-10-29</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://brunosblog.curation.space//contact.html</loc>
+    <lastmod>2015-10-29</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://brunosblog.curation.space//menu4.html</loc>
     <lastmod>2015-10-29</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
@@ -14,62 +26,50 @@
   </url>
   <url>
     <loc>https://brunosblog.curation.space//footer2.html</loc>
-    <lastmod>2015-10-28</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://brunosblog.curation.space//</loc>
-    <lastmod>2015-10-28</lastmod>
+    <lastmod>2015-10-29</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://brunosblog.curation.space//footer4.html</loc>
-    <lastmod>2015-10-28</lastmod>
+    <lastmod>2015-10-29</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://brunosblog.curation.space//footer3.html</loc>
-    <lastmod>2015-10-28</lastmod>
+    <lastmod>2015-10-29</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://brunosblog.curation.space//about.html</loc>
-    <lastmod>2015-10-28</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://brunosblog.curation.space//contact.html</loc>
-    <lastmod>2015-10-28</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://brunosblog.curation.space//menu4.html</loc>
-    <lastmod>2015-10-28</lastmod>
+    <lastmod>2015-10-29</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://brunosblog.curation.space//footer1.html</loc>
-    <lastmod>2015-10-28</lastmod>
+    <lastmod>2015-10-29</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://brunosblog.curation.space//menu1.html</loc>
-    <lastmod>2015-10-28</lastmod>
+    <loc>https://brunosblog.curation.space//menu2.html</loc>
+    <lastmod>2015-10-29</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>https://brunosblog.curation.space//partials/disqus.html</loc>
-    <lastmod>2015-10-28</lastmod>
+    <lastmod>2015-10-29</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://brunosblog.curation.space//menu1.html</loc>
+    <lastmod>2015-10-29</lastmod>
+    <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
