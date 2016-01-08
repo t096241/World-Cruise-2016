@@ -91,12 +91,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://brunosblog.curation.space//2016/01/07/world-cruise-2016-7-januar-2016.html</loc>
-    <lastmod>2016-01-08</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://brunosblog.curation.space//2016/01/07/world-cruise-2016-6-januar-2016.html</loc>
     <lastmod>2016-01-07</lastmod>
     <priority>0.7</priority>
@@ -224,12 +218,6 @@
   </url>
   <url>
     <loc>https://brunosblog.curation.space//2015/11/23.html</loc>
-    <lastmod>2016-01-04</lastmod>
-    <priority>0.8</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://brunosblog.curation.space//page/2/</loc>
     <lastmod>2016-01-04</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
