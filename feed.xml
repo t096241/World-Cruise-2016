@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2016/02/07/world-cruise-2016-7-februar.html"/>
     <id>https://brunosblog.curation.space/2016/02/07/world-cruise-2016-7-februar.html</id>
     <published>2016-02-07T09:25:47Z</published>
-    <updated>2016-02-07T09:25:50+00:00</updated>
+    <updated>2016-02-07T15:36:22+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,7 +23,7 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;Tauranga&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Tauranga&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -92,8 +92,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
-       &lt;a href="https://youtu.be/1vPDQ4tB9C8" rel="nofollow"&gt;1vPDQ4tB9C8&lt;/a&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/1vPDQ4tB9C8?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
