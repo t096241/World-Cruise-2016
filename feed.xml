@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2016/02/13/world-cruise-2016-13-februar.html"/>
     <id>https://brunosblog.curation.space/2016/02/13/world-cruise-2016-13-februar.html</id>
     <published>2016-02-13T07:52:13Z</published>
-    <updated>2016-02-13T07:52:17+00:00</updated>
+    <updated>2016-02-13T19:09:33+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,7 +23,7 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;Sydney - Tag 1&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Sydney - Tag 1&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -137,9 +137,6 @@
       &lt;div&gt;
         Am Nachmittag wurden wir dem dem Boot zum Circular Wharf gefahren. Von dort machten wir einen Spaziergang unter der Harbour Bridge durch zur Darling Wharf. 
       &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -147,12 +144,8 @@
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt; 
-      &lt;div&gt; 
-       &lt;br&gt; 
-      &lt;/div&gt; 
       &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
-       &lt;a href="https://youtu.be/e0XQ67b_p3Y" rel="nofollow"&gt;e0XQ67b_p3Y&lt;/a&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/e0XQ67b_p3Y?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
