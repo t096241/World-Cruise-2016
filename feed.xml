@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2016/02/26/world-cruise-2016-26-februar.html"/>
     <id>https://brunosblog.curation.space/2016/02/26/world-cruise-2016-26-februar.html</id>
     <published>2016-02-26T09:36:51Z</published>
-    <updated>2016-02-26T09:36:52+00:00</updated>
+    <updated>2016-02-27T07:09:32+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,10 +23,10 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;En Route to Bali&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;En Route to Bali&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt;&lt;/p&gt;
     
@@ -36,7 +36,7 @@
     &lt;p&gt;&lt;span/&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
         Das Meer war heute ganz ruhig und die Silver Whisper steuert langsam wieder gegen den Äquator. Bali ist nur drei Grad südlich des Äquators und entsprechend heiss ist das Klima in welchem wir uns nun wieder befinden. 
@@ -87,8 +87,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
-       &lt;a href="https://youtu.be/VYWqVzIehn0" rel="nofollow"&gt;VYWqVzIehn0?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/a&gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/VYWqVzIehn0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
