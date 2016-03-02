@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2016/03/02/world-cruise-2016-2-marz.html"/>
     <id>https://brunosblog.curation.space/2016/03/02/world-cruise-2016-2-marz.html</id>
     <published>2016-03-02T09:32:24Z</published>
-    <updated>2016-03-02T09:32:29+00:00</updated>
+    <updated>2016-03-02T10:24:22+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,10 +23,10 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;Sandakan, Malaysia&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Sandakan, Malaysia&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt;&lt;/p&gt;
     
@@ -166,8 +166,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
-       &lt;span style=" color: #454545;"&gt;w1gsO-rLSq0&lt;/span&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/w1gsO-rLSq0?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -194,7 +193,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2016/03/01/world-cruise-2016-1-marz.html"/>
     <id>https://brunosblog.curation.space/2016/03/01/world-cruise-2016-1-marz.html</id>
     <published>2016-03-01T09:49:33Z</published>
-    <updated>2016-03-01T09:49:35+00:00</updated>
+    <updated>2016-03-02T10:24:17+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -203,7 +202,7 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;En Route to Sandakan&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;En Route to Sandakan&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -284,9 +283,14 @@
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
       &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
-       &lt;a href="https://youtu.be/dWkw7HBnPzg" rel="nofollow"&gt;dWkw7HBnPzg&lt;/a&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/dWkw7HBnPzg?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
@@ -297,7 +301,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2016/02/29/world-cruise-2016-29-februar.html"/>
     <id>https://brunosblog.curation.space/2016/02/29/world-cruise-2016-29-februar.html</id>
     <published>2016-02-29T10:07:45Z</published>
-    <updated>2016-02-29T10:07:46+00:00</updated>
+    <updated>2016-03-02T10:24:15+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -306,7 +310,7 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;En Route to Sandakan&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;En Route to Sandakan&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -358,8 +362,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/ 
-       &lt;a href="https://youtu.be/meMgirDLJjA" rel="nofollow"&gt;meMgirDLJjA&lt;/a&gt;?rel=0&amp;quot; frameborder=&amp;ldquo;0&amp;rdquo; allowfullscreen&amp;gt;&lt;/iframe&gt;&lt;/div&gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/meMgirDLJjA?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
