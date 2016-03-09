@@ -343,6 +343,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://brunosblog.curation.space//2016/03/09/world-cruise-2016-9-marz.html</loc>
+    <lastmod>2016-03-09</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://brunosblog.curation.space//2016/01/26/world-cruise-2016-25-januar.html</loc>
     <lastmod>2016-01-26</lastmod>
     <priority>0.7</priority>
