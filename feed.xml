@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://brunosblog.curation.space/2016/03/14/world-cruise-2016-13-marz.html"/>
     <id>https://brunosblog.curation.space/2016/03/14/world-cruise-2016-13-marz.html</id>
     <published>2016-03-14T10:43:49Z</published>
-    <updated>2016-03-14T10:43:54+00:00</updated>
+    <updated>2016-03-14T16:17:56+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -23,7 +23,7 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt; 
-       &lt;u&gt;&lt;b&gt;Ho Chi Minh City (Saigon), Saigon by Night&lt;/b&gt;&lt;/u&gt; 
+       &lt;span style="text-decoration: underline;"&gt;&lt;strong&gt;Ho Chi Minh City (Saigon), Saigon by Night&lt;/strong&gt;&lt;/span&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
@@ -205,7 +205,7 @@
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/qEBJrOvuleE?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
+        &lt;div class="responsive-video"&gt;&lt;iframe src="https://www.youtube.com/embed/qEBJrOvuIeE?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; 
       &lt;/div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
