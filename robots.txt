@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://brunosblog.curation.space//sitemap.xml
+Sitemap: https://brunosblog.curation.space/sitemap.xml
